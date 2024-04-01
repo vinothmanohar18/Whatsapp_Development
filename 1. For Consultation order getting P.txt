@@ -34,3 +34,5 @@
 
 1. share more feedback about the doctor? option size is not as per UI.
 2. post consultation clicking on the star is highlighted, when try to deselect it not getting removed only when we deselect the previous star it is getting deselected. 
+
+Hiding last seen
