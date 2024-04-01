@@ -1,0 +1,36 @@
+1. For Consultation order getting Packing fee & delivery fee in Order Review page. 
+2. "You can consult doctor once payment done" content is missing above payment details section. 
+3. Note info is missing on order review page. 
+4. When we apply coupon getting coupon discount, now removing the coupon, the coupon discount amount is not removed until clicking on Apply coupon option
+5. When coupon applied getting "FLAT 100 off" text is dispalying as default.
+6. We are able to process Consultation flow as a pharma flow, when we add consltation from Recently viewed section in cart page. 
+7. We are able to ADD NFM + Consultation in cart. 
+8. When clicking on NMS SuperCash in Apply coupon the Apply coupon section is getting hidden. 
+9. Clicking on Header back buton from payment page is redirecting to PLP page instead of Order review page.
+10 In cart page when we try to apply coupon getting delay in apply 
+11. For Online Consultation getting COD option in payment page.
+12. Payment details mismatch in order success from order review - Already Raised
+13. Recently viewed & JioAds banners are displaying in order success page but in UI is it not displayed. 
+14. Once the payment done Auto redirection is not happening for consultation chat page 
+15. Redirecting you in "n"sec, the timmer is not running in order review page. 
+16. In Chat page timestamp is not shown instead Na Na is displaying. 
+17. In Kivi panel patient & Time is showing incorrect - Already raised. 
+18. Once Doctor Accept the order in Kivi panel in user chat page "Doctor has joined the chat" is displaying multiple times. 
+19. When we write any message or any attachement in kivi panel the same message or attachment is showing multiple times in user chat. 
+20. Dotor message timestamp is showing incorrect in user chat page. 
+21. When try to attach any image or document from user chat page getting 400 error.
+22. Unable to preview the image in User chat page. 
+23. When uploading PDF file from Kivi panel getting as broken image in user chat page. 
+24. Consultation Complete content is not as per UI. 
+25. In My Orders page getting Order processing for consultation order. 
+26. Free follow up message is not shown in my order's page. 
+27. Patient name and Doctor speciality is showing as "placeholder" instead patient name & doctor speciality.
+28. In Booking details page payemnt mode is showing as "pay at clinic" for online consultation order. 
+29. In Platform the consultation order is showing as Pharma order, getting order status as order confirmed and in log getting bag_invoiced.
+30. In Booking details page status bar is not highlighted and not as per UI.
+31. The consultation order is showing in BO with random product - FY65FBDCFA0EBCD20872
+32. Track Status in booking details page is not highlighted and not as per UI.
+
+
+1. share more feedback about the doctor? option size is not as per UI.
+2. post consultation clicking on the star is highlighted, when try to deselect it not getting removed only when we deselect the previous star it is getting deselected. 
