@@ -30,9 +30,11 @@
 30. In Booking details page status bar is not highlighted and not as per UI.
 31. The consultation order is showing in BO with random product - FY65FBDCFA0EBCD20872
 32. Track Status in booking details page is not highlighted and not as per UI.
-
-
 1. share more feedback about the doctor? option size is not as per UI.
 2. post consultation clicking on the star is highlighted, when try to deselect it not getting removed only when we deselect the previous star it is getting deselected. 
 
 Hiding last seen
+
+Added Video file 
+
+Added Audio file
